@@ -1,0 +1,26 @@
+.
+├── LICENSE
+├── README.md
+├── directory-structure.txt
+├── js
+│   ├── component
+│   │   ├── CardContact.jsx
+│   │   ├── footer.js
+│   │   ├── navbar.js
+│   │   └── scrollToTop.js
+│   ├── index.js
+│   ├── layout.js
+│   ├── store
+│   │   ├── appContext.js
+│   │   └── flux.js
+│   └── views
+│       ├── AddContact.jsx
+│       └── Contacts.jsx
+├── preview.gif
+└── src
+    └── img
+        ├── contact-list-1.png
+        ├── contact-list-2.png
+        └── m101.jpg
+
+7 directories, 17 files

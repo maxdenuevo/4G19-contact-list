@@ -57,4 +57,3 @@ All the functionalities must be implemented in the `actions` object inside the `
 This exercise is part of the complete 4Geeks Academy Full Stack course:
 
 [![4Geeks Academy](https://img.shields.io/badge/4Geeks%20Academy-blue.svg)](https://4geeks.com/interactive-coding-tutorial/contact-list-context)
-# 4G19-contact-list
